@@ -1,0 +1,6 @@
+Project Features
+
+1. Git repository creation
+2. Commit history management
+3. Branch creation
+4. GitHub integration
