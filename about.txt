@@ -1,0 +1,5 @@
+Project Description
+
+This project demonstrates Git version control, commits, and branching.
+
+Git helps developers track changes and maintain project history.
