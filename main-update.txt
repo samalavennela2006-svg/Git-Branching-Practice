@@ -1,0 +1,5 @@
+Main Branch Update
+
+This is an experimental commit made directly on the main branch.
+
+It demonstrates that main and feature-branch can have separate commit histories.
