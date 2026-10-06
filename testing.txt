@@ -1,0 +1,6 @@
+Testing Details
+
+1. Verify Git repository initialization.
+2. Check commit history.
+3. Verify branch creation.
+4. Confirm files are uploaded to GitHub.
