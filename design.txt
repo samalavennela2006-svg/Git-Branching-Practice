@@ -1,0 +1,3 @@
+Design Details
+
+This project demonstrates how Git branches support separate development workflows.
